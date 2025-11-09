@@ -171,6 +171,6 @@ SCD-Net-for-soybean-disease-identification/
 ### 8.2 联系方式  
 
 若遇到代码运行问题或学术交流需求，请联系：  
-- 邮箱：yukaidi@huuc.edu.cn  
+- 邮箱：yukaidihuuc@yeah.net
 - GitHub Issue：直接在本仓库提交Issue，会在1-3个工作日内回复。
 
